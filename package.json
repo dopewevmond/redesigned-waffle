@@ -1,0 +1,16 @@
+{
+  "name": "upwork-assignment-1",
+  "version": "1.0.0",
+  "description": "## Objective Demonstrate your problem-solving and coding skills by writing three distinct functions in any programming language of your choice. Each function should sum up to the number n in a unique way.",
+  "main": "nodeserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formik": "^2.4.5",
+    "yup": "^1.3.3"
+  }
+}
